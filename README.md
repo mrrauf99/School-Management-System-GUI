@@ -61,7 +61,7 @@ Configure the database connection string appropriately.
 Build and run the application.
 
 Login as Admin, Teacher, or Student, or sign up as a new user to start.
----
+
 **❤️ Thank You!**
 
 Thanks for checking out the School Management System! Wishing you success in your studies and projects! 🎉📚
