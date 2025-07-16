@@ -14,15 +14,15 @@ Admin 👨‍💼
 
 🏫 Assign classes, sections, and subjects to teachers
 
-📊 Dashboard with key insights:
+📊 **Dashboard Form** with key insights:
 
-Total enrolled students
+● Total enrolled students
 
-Total passed out students
+● Total passed out students
 
-Total teachers
+● Total teachers
 
-Today’s enrolled students
+● Today’s enrolled students
 
 Teacher 👩‍🏫
 -
@@ -39,22 +39,19 @@ Student 👨‍🎓
 📖 View marks and attendance records
 
 🛠️ Additional Features
+-
 🔐 Sign-up form for students and teachers
 
 🔑 Forgot password form for all users
 
-Smooth, easy-to-navigate Windows Forms interface
-
-Secure and efficient Oracle database backend
-
 🚀 Technologies Used
--
+---
 C# Windows Forms — GUI and application logic
 
 Oracle Database — Data storage and management
 
 🎯 How to Run
--
+---
 Set up Oracle database with provided schema and data scripts.
 
 Open the solution in Visual Studio.
@@ -64,7 +61,7 @@ Configure the database connection string appropriately.
 Build and run the application.
 
 Login as Admin, Teacher, or Student, or sign up as a new user to start.
+---
+**❤️ Thank You!**
 
-🙏 Thank You!
--
 Thanks for checking out the School Management System! Wishing you success in your studies and projects! 🎉📚
