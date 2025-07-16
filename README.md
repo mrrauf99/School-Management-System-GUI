@@ -16,13 +16,13 @@ Admin 👨‍💼
 
 📊 **Dashboard Form** with key insights:
 
-● Total enrolled students
+   ● Total enrolled students
 
-● Total passed out students
+   ● Total passed out students
 
-● Total teachers
+   ● Total teachers
 
-● Today’s enrolled students
+   ● Today’s enrolled students
 
 Teacher 👩‍🏫
 -
@@ -46,21 +46,21 @@ Student 👨‍🎓
 
 🚀 Technologies Used
 ---
-C# Windows Forms — GUI and application logic
+   ● C# Windows Forms — GUI and application logic
 
-Oracle Database — Data storage and management
+   ● Oracle Database — Data storage and management
 
 🎯 How to Run
 ---
-Set up Oracle database with provided schema and data scripts.
+   ● Set up Oracle database with provided schema and data scripts.
 
-Open the solution in Visual Studio.
+   ● Open the solution in Visual Studio.
 
-Configure the database connection string appropriately.
+   ● Configure the database connection string appropriately.
 
-Build and run the application.
+   ● Build and run the application.
 
-Login as Admin, Teacher, or Student, or sign up as a new user to start.
+   ● Login as Admin, Teacher, or Student, or sign up as a new user to start.
 
 ❤️ Thank You!
 -
